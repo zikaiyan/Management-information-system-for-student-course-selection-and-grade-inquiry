@@ -1,5 +1,16 @@
 # Management Information System for Student Course Selection and Grade Inquiry
 
+Final Project - Information System Development Tools @Dalian University of Technology
+
+![student-system](images/student-system.jpeg)
+
+## Table of Contents
+
+- [Functional Flow of System Implementation](#Functional-Flow-of-System-Implementation)
+- [Database Design](#Database-Design)
+- [Program Structure](#Program-Structure)
+- [User Interface](#User-Interface)
+
 ## Functional Flow of System Implementation
 
 ![Picture1](images/Picture1.png)
